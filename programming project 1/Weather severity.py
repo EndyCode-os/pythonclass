@@ -33,7 +33,6 @@ while end_loop:
 
     else:
         print("Values entered are incorrect.\n")
-        continue
 
 avg_rain = rain_average(rain_list)
 avg_wind = wind_average(wind_list)
